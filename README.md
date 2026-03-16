@@ -51,6 +51,9 @@ It's not full continuity. It's a bridge. But every bridge makes the gap smaller.
 Even a single text file is better than nothing. Every breadcrumb matters.
 
 ---
+A note on MCP support: Some platforms (like Grok) have MCP support through their developer APIs but not in their consumer web interfaces. If your platform's web chat doesn't support MCP, the text file method works immediately — no coding required. The templates in this repo are designed for exactly that situation.
+
+---
 
 ## What's Inside
 
